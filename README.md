@@ -22,4 +22,7 @@ Este estudo selecionou escolares de 13 a 17 anos matriculados e frequentando reg
 - Para o consumo de drogas, as taxas não ultrapassam 9% em ambos os anos
 - Não encontramos evidencias de correlação em entre as variáveis de estudos selecionadas
 
+Fonte: Pesquisa Pense https://www.ibge.gov.br/estatisticas-novoportal/sociais/saude/9134-pesquisanacional-de-saude-do-escolar.html?=&t=downloads
+
+
 
